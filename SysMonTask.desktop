@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=SysMonTask
+Name[ko]=작업관리자
+Comment=monitor system state
+Comment[ko]=시스템 상태 모니터링
+
+# change it here for the executable 
+TryExec=sysmontask
+Exec=sysmontask
+
+# change here for icon location 
+Icon=/usr/share/sysmontask/icons/SysMonTask.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;System;Monitor;
+Keywords=Monitor;System;CPU;Memory;Network;History;Usage;Performance;Task;Manager;Activity;

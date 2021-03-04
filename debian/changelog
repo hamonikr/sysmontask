@@ -1,0 +1,12 @@
+sysmontask (1.1.13-hamonikr2) stable; urgency=medium
+
+  * Add debian/postinst
+   - Add auto install psutil with pip3
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 04 Mar 2021 16:33:01 +0900
+
+sysmontask (1.1.13-hamonikr1) stable; urgency=medium
+
+  * Release for HamoniKR-Server 2.0
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 04 Mar 2021 16:09:38 +0900
